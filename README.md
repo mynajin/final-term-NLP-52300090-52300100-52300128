@@ -63,12 +63,18 @@ D	Yes	Yes
 This comparison highlights the contribution of each component to overall system performance.
 
 # 6. Evaluation
+
 6.1 Automatic Metrics
+
 BLEU
 ROUGE-L
 BERTScore
+
 6.2 Retrieval Evaluation
+
 Recall@5 to measure the effectiveness of the retrieval module
+
 6.3 Human Evaluation
+
 Manual evaluation on 50 test questions
 Criteria include correctness, fluency, and relevance
