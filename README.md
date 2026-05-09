@@ -78,3 +78,9 @@ Recall@5 to measure the effectiveness of the retrieval module
 
 Manual evaluation on 50 test questions
 Criteria include correctness, fluency, and relevance
+
+# Result 
+You can see all the result in this Google Drive link: 
+https://drive.google.com/drive/folders/1E1CRko6c_jLfQsADgwrrR6fZsNO4wQHj?usp=sharing
+
+
